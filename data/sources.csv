@@ -1,0 +1,13 @@
+id,source,publisher,date,url,use
+1,PhonePe Updated Draft Red Herring Prospectus-I,PhonePe / SEBI,2026-01-23,https://www.phonepe.com/apollo/investor-relations/phonepe-limited-updated-draft-red-herring-prospectus-1.pdf,"Primary source: MAC/MAM/DAM, TPC/TPAM, transaction/TPV series, devices, revenue mix and definitions."
+2,PhonePe Pulse,PhonePe,Q2 2026,https://www.phonepe.com/pulse/,Current Q2 2026 registered users/merchants and aggregate transaction data.
+3,PhonePe Pulse open dataset,PhonePe / GitHub,updated through Q2 2026,https://github.com/PhonePe/pulse,"Public, anonymized aggregate state/district/category data and methodology notes."
+4,PhonePe Pulse Metric Definitions,PhonePe,2026,https://www.phonepe.com/pulse/metric-definitions/,"Definitions for users, merchants, total transactions, P2P, Utilities and Business."
+5,PhonePe - In the Press / By the Numbers,PhonePe,2026-07,https://www.phonepe.com/press/,"718M LTD users, 50M+ merchants, 11B customer transactions in July 2026."
+6,UPI Product Statistics,NPCI,2026,https://www.npci.org.in/product/upi/product-statistics,Official UPI monthly volume/value.
+7,India preparing rollout of agentic payments on UPI,Reuters,2026-09-01,https://www.reuters.com/world/india/india-preparing-rollout-agentic-payments-upi-sources-say-2026-09-01/,August 2026 UPI volume/value and current ecosystem context.
+8,PhonePe reaches 50M registered merchants,PhonePe,2026-04-28,https://www.phonepe.com/press/phonepe-reaches-50-million-registered-merchants-across-india/,Merchant milestone and 98%+ postal-code reach.
+9,PhonePe crosses 700M registered users,PhonePe,2026-04-29,https://www.phonepe.com/press/phonepe-surpasses-700-million-registered-users-accelerates-growth-momentum/,User milestone.
+10,PhonePe UPI 123Pay launch,PhonePe,2026-08-31,https://www.phonepe.com/press/phonepe-launches-upi-payments-for-indias-feature-phone-users,200M+ feature-phone addressable users and product details.
+11,PhonePe FY26 financials,Business Standard,2026-07-25,https://www.business-standard.com/companies/quarterly-results/phonepe-fy26-net-loss-widens-to-rs-2-792-cr-despite-11-5-pc-revenue-growth-126072501086_1.html,FY26 revenue and net-loss context from regulatory filings.
+12,PhonePe PulsePro launch,PhonePe,2026-07-30,https://www.phonepe.com/press/phonepe-launches-pulsepro-actionable-data-intelligence-for-indian-businesses/,Current monetization/data-intelligence adjacency.

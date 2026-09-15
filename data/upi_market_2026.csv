@@ -1,0 +1,5 @@
+market,period,volume_bn,value_inr_trn,unit,source
+India UPI,Apr-2026,22.3468,29.0298805,billion tx / INR trillion,NPCI
+India UPI,May-2026,23.20193,29.9042421,billion tx / INR trillion,NPCI
+India UPI,Jun-2026,22.71607,28.9213867,billion tx / INR trillion,NPCI
+India UPI,Aug-2026,24.51,29.82,billion tx / INR trillion,NPCI via Reuters
